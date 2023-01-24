@@ -3,10 +3,18 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Live Preview : https://5fc3e9f5c2e608729e4d32d3--moviesgh.netlify.app
 
 ## Tools : 
+# v1
 #### React.js
-#### Readux / Readux-thunk
+#### Redux / Redux-thunk
 #### React Router
 #### Axois API
+
+# Next Update
+#### used API from IMBD
+#### update React into v18
+#### used Redux_Toolkit instead Redux / Redux_thunk
+#### update React Router Dom
+#### Opimaize for Performance
 
 ## Images : 
 ![download](https://user-images.githubusercontent.com/43346326/100550567-88abd800-3283-11eb-8a76-a5c30f38be50.png)
