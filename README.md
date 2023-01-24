@@ -14,7 +14,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 #### update React into v18
 #### used Redux_Toolkit instead Redux / Redux_thunk
 #### update React Router Dom
-#### Opimaize for Performance
+#### Opimize Performance
 
 ## Images : 
 ![download](https://user-images.githubusercontent.com/43346326/100550567-88abd800-3283-11eb-8a76-a5c30f38be50.png)
